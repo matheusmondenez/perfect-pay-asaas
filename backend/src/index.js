@@ -3,7 +3,7 @@ import Customers from './services/Customers.js'
 import Payments from './services/Payments.js'
 
 const app = express()
-const port = process.env.APP_PORT
+const port = 3000
 
 app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*')
