@@ -8,7 +8,7 @@ O projeto consiste em uma aplicação Back-end em NodeJS e uma aplicação Front
 - No terminal execute:
   - `cd backend`
   - `npm install`
-- Configure o arquivo `.env`
+- Renomeie o arquivo `.env.example` para `.env` e preencha as variáveis de ambiente
 - No terminal execute:
   - `npm start`
 
